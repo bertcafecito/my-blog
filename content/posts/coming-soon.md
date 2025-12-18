@@ -1,6 +1,7 @@
 +++
 title = "Coming Soon"
 date = "2025-12-18T11:27:41-05:00"
+publishDate = "2025-12-18T11:27:41-05:00"  # Post published immediately
 draft = false
 +++
 
