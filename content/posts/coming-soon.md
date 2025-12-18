@@ -1,6 +1,5 @@
 +++
 title = "Coming Soon"
-description = "A placeholder post indicating that content is on the way."
 date = "2025-12-18"
 publishDate = "2025-12-18"  # Post published immediately
 tags = ["announcement", "teaser"]
