@@ -4,7 +4,7 @@ title = 'My New Hugo Site'
 theme = 'terminal'
 
 # Publishing control
-buildFuture = false  # Don't build posts with publishDate in the future
+buildFuture = false  # Build posts with publishDate in the future
 
 [params]
   contentTypeName = "posts"

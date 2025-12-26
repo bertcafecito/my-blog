@@ -1,8 +1,8 @@
 +++
 title = "Why I Build Pytoolbelt and Why You Might Steal It"
 description = "A casual story about extracting reusable Python helpers into a personal toolbelt and why you might want one too."
-date = "2026-01-07"
-publishDate = "2026-01-07"  # Post published at a future date
+date = "2026-01-21"
+publishDate = "2026-01-21"  # Post published at a future date
 tags = ["python", "development", "tools"]
 categories = ["programming", "productivity"]
 draft = false
